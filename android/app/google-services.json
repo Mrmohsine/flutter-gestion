@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646014830947",
+    "project_id": "gestion-financiere-48899",
+    "storage_bucket": "gestion-financiere-48899.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646014830947:android:f9715ea9fc0698a46beb56",
+        "android_client_info": {
+          "package_name": "com.example.gestion_financiere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiTVlu5Q9y9h-aSyeQlPh8cFeSMN7bIzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
